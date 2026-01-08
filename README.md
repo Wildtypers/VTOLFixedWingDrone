@@ -1,9 +1,6 @@
 # VTOLFixedWingDrone
 © 2026 Kelvin Huang. All rights reserved. Unauthorized copying, modification, or redistribution of this project is strictly prohibited.
 
-# VTOLFixedWingDrone
-© 2026 Kelvin Huang. All rights reserved. Unauthorized copying, modification, or redistribution of this project is strictly prohibited.
-
 This project is a hybrid VTOL (Vertical Takeoff and Landing) fixed-wing drone designed to combine the hovering and vertical takeoff capabilities of a multirotor with the efficiency and high-speed forward flight of a fixed-wing aircraft. The drone is intended as a platform for experimental hybrid flight dynamics, autonomous operation, and advanced drone control techniques.
 
 Key features:
