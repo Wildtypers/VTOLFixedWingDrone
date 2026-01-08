@@ -4,6 +4,7 @@
 This project is a hybrid VTOL (Vertical Takeoff and Landing) fixed-wing drone designed to combine the hovering and vertical takeoff capabilities of a multirotor with the efficiency and high-speed forward flight of a fixed-wing aircraft. The drone is intended as a platform for experimental hybrid flight dynamics, autonomous operation, and advanced drone control techniques.
 
 Key features:
+
 Two tilt-capable vertical lift rotors for VTOL and omnidirectional movement.
 Two forward-facing motors on each wing for efficient cruise flight.
 Smooth transitions between hovering, forward flight, and lateral movement.
